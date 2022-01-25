@@ -1,12 +1,39 @@
 h1{
   color; Black;
   text-align: center;
+ 
 }
 
-img{
+h4{
+	 background-color: lightgrey;
+}
 
+h3{
+	float: right;
+	 text-align: center;
+}
+
+p{
+	background-color: lightgrey;
+}
+img{
+border-style: double;
+ display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+#i3{
+ float: right;
 }
 
 body{
-	background-color: lightCoral;
+	
+	 background-image: url("track.jpg");
+	   background-repeat: no-repeat;
+	    background-attachment: fixed;
+		background-size: 110% 110%;
+	 background-color: lightCoral;
+
 }
